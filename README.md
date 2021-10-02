@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Prachi Singh</h1>
 <h3 align="center">An enthusiastic Java programmer and always passionate ‍to learn more about it. Sometimes I also write codes for web.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi610&label=Profile%20views&color=0e75b6&style=flat" alt="prachi610" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi610&label=Profile%20views&color=0e75b6&style=flat" alt="prachi610" /> </p> -->
 
 - 👩‍💻 My ongoing project is [My Portfolio](https://github.com/prachi610/MyPortfolio)
 
