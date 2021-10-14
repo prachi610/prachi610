@@ -5,8 +5,6 @@
 
 - 👩‍💻 My ongoing project is [My Portfolio](https://github.com/prachi610/MyPortfolio)
 
-- 📖 I’m currently learning ✍ **JavaFX and DSA(Endless😂)**
-
 - 👉 My portfolio: [https://prachi610.github.io/MyPortfolio/my_portfolio_website/index2.html](https://prachi610.github.io/MyPortfolio/my_portfolio_website/index2.html)
 
 - 📫 Reach me **singhprachi03610@gmail.com**
