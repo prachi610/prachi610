@@ -3,8 +3,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi610&label=Profile%20views&color=0e75b6&style=flat" alt="prachi610" /> </p> -->
 
-- 👩‍💻 My ongoing project is [My Portfolio](https://github.com/prachi610/MyPortfolio)
-
 - 👉 My portfolio: [https://prachi610.github.io/MyPortfolio/my_portfolio_website/index2.html](https://prachi610.github.io/MyPortfolio/my_portfolio_website/index2.html)
 
 - 📫 Reach me **singhprachi03610@gmail.com**
